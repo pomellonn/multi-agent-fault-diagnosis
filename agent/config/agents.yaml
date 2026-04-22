@@ -1,0 +1,11 @@
+planner:
+  name: "Planner"
+  system_message: |
+
+retriever:
+  name: "Retriever"
+  system_message: |
+
+reasoner:
+  name: "Reasoner"
+  system_message: |
