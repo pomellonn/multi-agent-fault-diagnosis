@@ -1,4 +1,6 @@
-pyautogen==0.2.38 
+pyautogen==0.10.0
 python-dotenv==1.0.1
 pyyaml==6.0.2
- 
+openai
+ipython
+autogen==0.12.1
